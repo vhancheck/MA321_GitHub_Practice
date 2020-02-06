@@ -29,3 +29,30 @@ Hello
 
 Hi Tori
 
+Commit, push, then pull
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

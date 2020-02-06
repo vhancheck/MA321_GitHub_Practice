@@ -1,0 +1,19 @@
+---
+title: "GitHub Practice"
+output: html_notebook
+---
+
+```{r}
+x <- c(1:50)
+
+x[3]
+
+plot(x)
+
+y <- c(51:100)
+
+x + y 
+
+x*y
+```
+

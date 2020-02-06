@@ -4,7 +4,7 @@ output: html_notebook
 ---
 
 ```{r}
-x <- c(1:50)
+x <- c(2:51)
 
 x[3]
 
@@ -20,3 +20,4 @@ x*y
 Hello
 
 Hi Tori
+

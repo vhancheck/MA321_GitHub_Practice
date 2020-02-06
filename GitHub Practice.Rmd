@@ -19,6 +19,10 @@ x*y
 x-y
 
 x-y*y
+
+hist(x, col = "green")
+hist(y, col = "blue")
+hist(x*y, col = "red")
 ```
 
 Hello

@@ -25,6 +25,8 @@ hist(y, col = "blue")
 hist(x*y, col = "red")
 plot(y, col = "turquoise")
 
+hist(x-y, col = "orange")
+
 ```
 
 Hello
@@ -33,7 +35,7 @@ Hi Tori
 
 Commit, push, then pull
 
-
+Are we done yet?
 
 ```{r}
 ?col2rgb

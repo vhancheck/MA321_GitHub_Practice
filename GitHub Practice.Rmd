@@ -35,6 +35,10 @@ Commit, push, then pull
 
 
 
+```{r}
+?col2rgb
+demo("colors")
+```
 
 
 
